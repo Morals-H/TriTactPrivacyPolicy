@@ -1,0 +1,29 @@
+Privacy Policy for Tri-Tact Game
+Effective Date: [Insert Effective Date]
+Thank you for playing Tri-Tact, a game developed by [Your Company Name]. We respect your privacy and are committed to protecting your personal information. This Privacy Policy outlines how we handle data collection and usage in our game.
+1. Information We Don't Collect:
+We want to be clear that Tri-Tact does not collect or store any of your personal information, including but not limited to:
+Your name
+Email address
+Phone number
+Location data
+Device information
+Any other personally identifiable information
+
+2. Third-Party Advertising:
+Tri-Tact includes third-party advertisements to support the game's free availability. Advertising networks may deliver these ads, which may collect and use information about your interests to display relevant advertisements. Please note that the data these networks collect is subject to their respective privacy policies.
+We recommend reviewing the privacy policies of our advertising partners to understand how they handle your data. Here is a list of our current advertising partners:
+IronSource: https://www.is.com/privacy-policy/
+Unity: https://unity.com/legal/privacy-policy
+
+3. In-App Purchases:
+Tri-Tact offers in-app purchases for various in-game items. Please be aware that the payment information you provide when making these purchases is processed by the respective app store (e.g., Google Play Store or Apple App Store) and is not accessible to or stored by us.
+4. Analytics:
+Tri-Tact may use analytics tools to collect non-personal information such as device type, gameplay statistics, and crash reports to improve the game and understand player behavior. This data is used solely to optimize the game's performance and user experience.
+5. Children's Privacy:
+Tri-Tact is not intended for children under the age of 13. We do not knowingly collect any personal information from users under this age. If you are a parent or guardian and believe that your child has provided us with personal information, please contact me, and we will take steps to delete such information.
+6. Changes to this Privacy Policy:
+We reserve the right to update or modify this Privacy Policy anytime. Any changes will be reflected with an updated effective date. We encourage you to review this Privacy Policy periodically to stay informed about how we are protecting your privacy.
+7. Contact Us:
+If you have any questions or concerns regarding this Privacy Policy or your personal data, please get in touch with me at shawnwolf.business@gmail.com.
+By continuing to use Tri-Tact, you consent to the terms outlined in this Privacy Policy.
